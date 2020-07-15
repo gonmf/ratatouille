@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\Slave.exe.config
+C:\Users\user\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\Slave.exe
+C:\Users\user\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\Slave.pdb
+C:\Users\user\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\Slave.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\Slave.exe
+C:\Users\user\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\Slave.pdb
+C:\Users\user\Desktop\Ratatouille\Slave\bin\Debug\Slave.exe.config
+C:\Users\user\Desktop\Ratatouille\Slave\bin\Debug\Slave.exe
+C:\Users\user\Desktop\Ratatouille\Slave\bin\Debug\Slave.pdb
+C:\Users\user\Desktop\Ratatouille\Slave\obj\Debug\Slave.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Ratatouille\Slave\obj\Debug\Slave.exe
+C:\Users\user\Desktop\Ratatouille\Slave\obj\Debug\Slave.pdb

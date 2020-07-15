@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\ConsoleApplication1\Master\bin\Debug\Master.exe.config
+C:\Users\user\Desktop\ConsoleApplication1\Master\bin\Debug\Master.exe
+C:\Users\user\Desktop\ConsoleApplication1\Master\bin\Debug\Master.pdb
+C:\Users\user\Desktop\ConsoleApplication1\Master\obj\Debug\Master.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ConsoleApplication1\Master\obj\Debug\Master.exe
+C:\Users\user\Desktop\ConsoleApplication1\Master\obj\Debug\Master.pdb
+C:\Users\user\Desktop\Ratatouille\Master\bin\Debug\Master.exe.config
+C:\Users\user\Desktop\Ratatouille\Master\bin\Debug\Master.exe
+C:\Users\user\Desktop\Ratatouille\Master\bin\Debug\Master.pdb
+C:\Users\user\Desktop\Ratatouille\Master\obj\Debug\Master.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Ratatouille\Master\obj\Debug\Master.exe
+C:\Users\user\Desktop\Ratatouille\Master\obj\Debug\Master.pdb

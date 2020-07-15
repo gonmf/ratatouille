@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Ratatouille\Slave\bin\Release\Slave.exe.config
+C:\Users\user\Desktop\Ratatouille\Slave\bin\Release\Slave.exe
+C:\Users\user\Desktop\Ratatouille\Slave\bin\Release\Slave.pdb
+C:\Users\user\Desktop\Ratatouille\Slave\obj\Release\Slave.exe
+C:\Users\user\Desktop\Ratatouille\Slave\obj\Release\Slave.pdb
