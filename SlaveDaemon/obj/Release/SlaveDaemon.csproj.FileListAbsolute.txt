@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Ratatouille\SlaveDaemon\obj\Release\SlaveDaemon.Form1.resources
+C:\Users\user\Desktop\Ratatouille\SlaveDaemon\obj\Release\SlaveDaemon.Properties.Resources.resources
+C:\Users\user\Desktop\Ratatouille\SlaveDaemon\obj\Release\SlaveDaemon.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Ratatouille\SlaveDaemon\bin\Release\COMSystem.exe.config
+C:\Users\user\Desktop\Ratatouille\SlaveDaemon\bin\Release\COMSystem.exe
+C:\Users\user\Desktop\Ratatouille\SlaveDaemon\bin\Release\COMSystem.pdb
+C:\Users\user\Desktop\Ratatouille\SlaveDaemon\obj\Release\COMSystem.exe
+C:\Users\user\Desktop\Ratatouille\SlaveDaemon\obj\Release\COMSystem.pdb

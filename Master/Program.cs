@@ -11,12 +11,17 @@ namespace Master
 	{
 		static void Main(string[] args)
 		{
+			int port;
+
 			if (args.Length != 1)
 			{
-				return;
+				Console.WriteLine("Did not receive port number; will use default - 8000");
+				port = 8000;
 			}
-
-			int port = Int32.Parse(args[0]);
+			else
+			{
+				port = Int32.Parse(args[0]);
+			}
 
 			TcpListener server = new TcpListener(port);
 
@@ -29,14 +34,16 @@ namespace Master
 			NetworkStream stream = client.GetStream();
 
 			Console.WriteLine();
-			Console.WriteLine("Commands available: quit, ping, cd, rm");
+			Console.WriteLine("Commands available: quit, ping, cd, rm, find");
+			Console.WriteLine("Examples: cd ..\\Music");
+			Console.WriteLine("          find .xlsx");
 			Console.WriteLine();
 
 			while (true)
 			{
 				while(true) {
 					string str = read(stream);
-					if (str.Trim() == "ACK")
+					if (str.Trim() == "[YIELD]")
 					{ // Wait for our turn to speak
 						Console.WriteLine();
 						break;
